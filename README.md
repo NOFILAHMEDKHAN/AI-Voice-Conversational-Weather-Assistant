@@ -96,20 +96,22 @@ To use the project, you’ll need two API keys:
 
 ## ⚙️ Installation & Setup
 
-```bash
+bash
 # 1️⃣ Clone the Repository
+```
 git clone https://github.com/yourusername/AI-Weather-Assistant.git
 cd AI-Weather-Assistant
 ```
 # 2️⃣ Install Dependencies
+```
 pip install -r requirements.txt
 ```
-```
+
 # 3️⃣ Run the App
+```
 streamlit run app.py
 Open your browser and navigate to:
 👉 http://localhost:8501
-```
 ```
 ---
 ## 💡 How It Works
@@ -127,10 +129,6 @@ The user’s and agent’s dialogue is stored in the Streamlit chat window.
 
 You can also click any preset city button for instant weather updates.
 
----
-## 🖼️ Demo Preview
-🎥 Video output demonstrates the full conversational experience — user voice input, agent speech reply, and live data display.
-Each response is generated in real-time, with smooth UI flow and crystal-clear audio feedback.
 ---
 ## 📊 Example Queries
 User Query	Assistant Reply (Example)
