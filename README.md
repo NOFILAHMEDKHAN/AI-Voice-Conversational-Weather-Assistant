@@ -165,8 +165,11 @@ Copy code
 ---
 ## 👨‍💻 Author
 Developed by: Nofil Ahmed Khan
+
 📧 Email: nofil2012@gmail.com
+
 🌐 LinkedIn: linkedin.com/in/khannofil
+
 💬 Building practical AI projects that merge intelligence, interaction, and innovation.
 ---
 ## 📜 License
